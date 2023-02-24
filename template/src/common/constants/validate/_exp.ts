@@ -1,0 +1,1 @@
+export const EXP_REQUIRE ="Vui lòng kinh nghiệm làm việc";

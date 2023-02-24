@@ -1,0 +1,1 @@
+export const MAJOR_REQUIRE ="Vui lòng chọn ngành/nghề quan tâm"

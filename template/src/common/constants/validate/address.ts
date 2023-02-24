@@ -1,0 +1,1 @@
+export const ADDRESS_REQUIRE ="Vui lòng chọn địa điểm làm việc"

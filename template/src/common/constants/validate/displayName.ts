@@ -1,0 +1,1 @@
+export const DISPLAY_NAME_REQUIRE = "Vui lòng nhập họ và tên của bạn"
