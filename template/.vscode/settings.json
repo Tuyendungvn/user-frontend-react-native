@@ -1,0 +1,49 @@
+{
+  "git.ignoreLimitWarning": true,
+  "editor.formatOnSave": true,
+  "[javascriptreact, typescript, typescriptreact, scss, css, json ]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact, json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "search.exclude": {
+    "**/package-lock.json": true,
+    "**/yarn.lock": true,
+    "**/node_modules": false
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "cSpell.ignoreRegExpList": [
+    "mixins",
+    "ISEO",
+    "nprogress",
+    "tailwind",
+    "@tailwind",
+    "immer",
+    "realityestate",
+    "headlessui",
+    "crossdomain",
+    "semibold",
+    "formik",
+    "Youtube",
+    "brainhubeu",
+    "embla",
+    "zalo",
+    "dropzone",
+    "Lightbox",
+    "Recaptcha",
+    "Scriptjs",
+    "Geocode",
+    "postbuild",
+    "ISVG",
+    "Kingify",
+    "csstype",
+    "languagedetector"
+  ],
+
+  "editor.tabSize": 2,
+  "editor.autoClosingQuotes": "always",
+  "search.useIgnoreFiles": false
+}

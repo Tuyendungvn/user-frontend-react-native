@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "798998611811",
+    "project_id": "tuyen-dung-vn-94bf8",
+    "storage_bucket": "tuyen-dung-vn-94bf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798998611811:android:907f5ec5634285458d7556",
+        "android_client_info": {
+          "package_name": "com.rn_ts_template"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798998611811-8pvctnfi1qh9n9rbp3ml57oucib23e0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn_ts_template",
+            "certificate_hash": "899a17c9f6f4d71005e5bbbc12f73f9f7e17c8f0"
+          }
+        },
+        {
+          "client_id": "798998611811-pojoqc0pu6b6lg0cihu5n3n9sohnpt3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVI2sZ2Hn1mQ93iJOUck-wHsClkP0UFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798998611811-pojoqc0pu6b6lg0cihu5n3n9sohnpt3i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798998611811-sp40frgekd6q502q3m53c3dc5derkelu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vn.tuyendungvn"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
